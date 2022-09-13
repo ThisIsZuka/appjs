@@ -95,7 +95,7 @@ const mail = async (req, res) => {
             // text: "Hello world? kittisak", // plain text body
             html: `<p><span style="font-size:18px"><span style="font-family:Comic Sans MS,cursive">We are a fast growing company in a short time. We are creating a technology that the history of the world must engrave. We want to be number one in the world. and to get to that point </span></span></p>
 
-            <p style="text-align:center"><span style="font-family:Comic Sans MS,cursive"><strong><span style="color:#ff0000"><span style="font-size:36px">I need you</span></span></strong></span></p>
+            <p style="text-align:center"><span style="font-family:Comic Sans MS,cursive"><strong><span style="color:#ff0000"><span style="font-size:36px">I want you</span></span></strong></span></p>
             
             <p><strong><span style="color:#f39c12">write a fucking resignation letter</span></strong></p>
             
